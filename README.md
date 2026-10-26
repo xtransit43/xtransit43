@@ -1,31 +1,27 @@
-### Hi there! 👋 I'm Gideon Chung
+### Hi there! 👋 I'm xtransit43
 
 I am a Computer Science student at the **University of San Francisco** (B.S., Expected June 2029) with a deep passion for artificial intelligence, machine learning, and building high-performance full-stack applications.
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 **Education:** B.S. in Computer Science @ University of San Francisco (Class of 2029)
-* 🏆 **Achievements:** 1st Place Winner of the NorCal Cyber Mayor's Cup & President's Volunteer Service Award recipient
-* 🌐 **Languages:** Fluent in English, Japanese, and Chinese (California Seal of Biliteracy)
-* 📍 **Based in:** Oakland / San Francisco, California
+### About Me
+* **Education:** B.S. in Computer Science @ University of San Francisco (Class of 2029)
 
 ---
 
-### 🛠️ Certifications & Skills
+### Certifications & Skills
 
 * **Certifications:**
   * CompTIA Security+
   * DeepLearning.AI Machine Learning Specialization
 
 * **Languages & Core Tech:**
-  * **Programming Languages:** Python, Java, C, JavaScript, HTML/CSS
-  * **Frameworks & Libraries:** React Native, PyTorch, TensorFlow, Scikit-learn, Pandas, Matplotlib, Node.js
-  * **Developer Tools & Infrastructure:** APIs, Git, ProPresenter, VS Code, Jupyter Notebook
-
+  * **Programming Languages:** Python, Java, C, JavaScript, HTML/CSS, Typescript
+  * **Frameworks & Libraries:** React Native, Expo Go, PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, Matplotlib, Node.js, Agile Methodologies
+  * **Developer Tools & Infrastructure:** REST API's, Git, GCP, AWS Lambda, Microsoft Azure, Prisma ORM, PostgreSQL
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * **Flood Prediction Neural Network** *(TensorFlow, PyTorch, Python)*
   * Engineered a deep learning flood prediction model using TensorFlow with customized ReLU and Sigmoid activation layers.
@@ -37,6 +33,5 @@ I am a Computer Science student at the **University of San Francisco** (B.S., Ex
 
 ---
 
-### 📬 Connect with Me
-- 📧 Email: [adicushelifert@gmail.com](mailto:adicushelifert@gmail.com)
-- 💼 Let's build something impactful together!
+### Connect with Me
+- Email: [adicushelifert@gmail.com](mailto:adicushelifert@gmail.com)
