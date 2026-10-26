@@ -1,15 +1,9 @@
-### Hi there! 👋 I'm xtransit43
+### Hi there! I'm xtransit43
 
-I am a Computer Science student at the **University of San Francisco** (B.S., Expected June 2029) with a deep passion for artificial intelligence, machine learning, and building high-performance full-stack applications.
+I am a current undergraduate Computer Science student  with a deep passion for artificial intelligence, machine learning, and building high-performance full-stack applications.
 
----
 
 ### About Me
-* **Education:** B.S. in Computer Science @ University of San Francisco (Class of 2029)
-
----
-
-### Certifications & Skills
 
 * **Certifications:**
   * CompTIA Security+
