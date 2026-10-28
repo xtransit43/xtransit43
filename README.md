@@ -12,7 +12,7 @@ I am a current undergraduate Computer Science student  with a deep passion for a
 * **Languages & Core Tech:**
   * **Programming Languages:** Python, Java, C, JavaScript, HTML/CSS, Typescript
   * **Frameworks & Libraries:** React Native, Expo Go, PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, Matplotlib, Node.js, Agile Methodologies
-  * **Developer Tools & Infrastructure:** REST API's, Git, GCP, AWS Lambda, Microsoft Azure, Prisma ORM, PostgreSQL, StreamLit
+  * **Developer Tools & Infrastructure:** REST API's, Git, Prisma ORM, PostgreSQL, StreamLit, NoSql
 ---
 
 ### Featured Projects
